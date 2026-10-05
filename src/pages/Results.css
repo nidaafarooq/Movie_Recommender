@@ -1,0 +1,4 @@
+.results-head { margin-bottom: 1.8rem; }
+.results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 1.2rem; }
+.empty-box { text-align: center; padding: 3rem 1rem; }
+.empty-box .btn { margin-top: 1.2rem; }
